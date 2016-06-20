@@ -3,6 +3,7 @@ library(shiny)
 library(ggplot2)
 library(rCharts)
 library(dplyr)
+library(markdown)
 
 # Load data
 FINF <- read.csv("Data/FINF.csv")

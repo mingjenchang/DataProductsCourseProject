@@ -40,7 +40,7 @@ shinyUI(
             
         ),
         
-        tabPanel("Help",
+        tabPanel("How to use this App",
             mainPanel(
                 includeMarkdown("help.md")
             )
